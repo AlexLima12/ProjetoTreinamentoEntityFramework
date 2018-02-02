@@ -40,7 +40,7 @@ namespace Treinamentos.Models
          [Required]
         public int IdAreas { get; set; }
 
-        public Areas Areas  { get; set; }
+        //public Areas Areas  { get; set; }
 
         
 
