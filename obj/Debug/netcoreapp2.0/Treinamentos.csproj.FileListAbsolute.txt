@@ -1,0 +1,10 @@
+C:\Users\40344056864\backend\Treinamentos\bin\Debug\netcoreapp2.0\Treinamentos.deps.json
+C:\Users\40344056864\backend\Treinamentos\bin\Debug\netcoreapp2.0\Treinamentos.runtimeconfig.json
+C:\Users\40344056864\backend\Treinamentos\bin\Debug\netcoreapp2.0\Treinamentos.runtimeconfig.dev.json
+C:\Users\40344056864\backend\Treinamentos\bin\Debug\netcoreapp2.0\Treinamentos.dll
+C:\Users\40344056864\backend\Treinamentos\bin\Debug\netcoreapp2.0\Treinamentos.pdb
+C:\Users\40344056864\backend\Treinamentos\obj\Debug\netcoreapp2.0\Treinamentos.csproj.CoreCompileInputs.cache
+C:\Users\40344056864\backend\Treinamentos\obj\Debug\netcoreapp2.0\Treinamentos.AssemblyInfoInputs.cache
+C:\Users\40344056864\backend\Treinamentos\obj\Debug\netcoreapp2.0\Treinamentos.AssemblyInfo.cs
+C:\Users\40344056864\backend\Treinamentos\obj\Debug\netcoreapp2.0\Treinamentos.dll
+C:\Users\40344056864\backend\Treinamentos\obj\Debug\netcoreapp2.0\Treinamentos.pdb
